@@ -88,11 +88,8 @@ public class Principal {
             DatosLibros datosLibros = libroBuscado.get();
             DatosAutores datosAutor = datosLibros.autor().get(0);
             Autores autor = repositoryAutores.findByNombre(datosAutor.nombre());
-            Autores autor1 = repositoryAutores.findByBirthYear(datosAutor.birthYear());
-            Autores autor2 = repositoryAutores.findByDeathYear(datosAutor.deathYear());
-
-
-            if (autor == null || autor1 == null || autor2 == null) {
+            
+            if (autor == null) {
                 autor = new Autores(datosAutor);
                 repositoryAutores.save(autor);
             }
