@@ -50,7 +50,7 @@ The menu of the project has 6 options:
   6. Exit
 
 <h2>Project status</h2>
-:white_check_mark: **Finished** :white_check_mark:
+:white_check_mark: Finished :white_check_mark:
 
 
 ## :hammer:Features
