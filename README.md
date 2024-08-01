@@ -30,7 +30,7 @@ El programa presenta un menú que consta de 6 opciones:
 -  `Funcionalidad 6`: Por último, la opción 6 cierra la programa.
 
 
-<h1 align="center"> Literalura ENGLISH</h1>
+<h1 align="center"> Literalura 📖 ENGLISH</h1>
 
 <h2> Considerations: the project is in Spanish</h2>
 <h2>Project description</h2>
