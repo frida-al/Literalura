@@ -1,4 +1,4 @@
-<h1 align="center"> Literalura_Alura_ONE </h1>
+<h1 align="center"> Literalura </h1>
 
 <h2>Descripción del proyecto</h2>
 Este proyecto fue realizado para poner en práctica los conocimientos aprendidos en los cursos `Java: trabajando con lambdas, streams y Spring Framework` y `Java: persistencia de datos y consultas con Spring Data JPA`. El proyecto nos permite consultar datos acerca de los libros del Proyecto Gutenberg mendiante el consumo de su API, Gutendex. Posteriormente, los datos consultados se guardan en una base de datos de Postgres.
@@ -30,7 +30,7 @@ El programa presenta un menú que consta de 6 opciones:
 -  `Funcionalidad 6`: Por último, la opción 6 cierra la programa.
 
 
-<h1 align="center"> Literalura_Alura_ONE ENGLISH</h1>
+<h1 align="center"> Literalura ENGLISH</h1>
 
 <h2> Considerations: the project is in Spanish</h2>
 <h2>Project description</h2>
