@@ -1,4 +1,4 @@
-<h1 align="center"> Literalura </h1>
+<h1 align="center"> Literalura 📖</h1>
 
 <h2>Descripción del proyecto</h2>
 Este proyecto fue realizado para poner en práctica los conocimientos aprendidos en los cursos `Java: trabajando con lambdas, streams y Spring Framework` y `Java: persistencia de datos y consultas con Spring Data JPA`. El proyecto nos permite consultar datos acerca de los libros del Proyecto Gutenberg mendiante el consumo de su API, Gutendex. Posteriormente, los datos consultados se guardan en una base de datos de Postgres.
